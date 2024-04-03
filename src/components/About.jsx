@@ -30,5 +30,8 @@ const About = () => {
     </section>
   );
 };
+// git remote add origin https://github.com/dcassin2082/temp-backrods-app.git
+// git branch -M main
+// git push -u origin main
 
 export default About;
